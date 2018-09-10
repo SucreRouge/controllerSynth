@@ -1,0 +1,9 @@
+This file provides information about the directory organization and the files present in them
+
+The following directories are present:
+   - examples - contains random generated testcases (tables) (about 50)
+   - qmm_mvl_adjacent - the main code for Quine McCluskey method extended for Multi value logic, and adapted for merging only neighboring entries
+   - testcase_gen - the testcase generator code and a sample configuration file.
+
+Each directory has a relevant README file within it for providing more details for the same.
+

@@ -1,0 +1,16 @@
+How to run the script:
+
+python generate_tables.py <cfg file name> <output file name>
+
+example:
+python generate_tables.py gen_table.cfg table.txt
+
+
+A sample cfg file is provided in the release
+
+1       ## number of tables
+3 5     ## range for number of variables
+4 6     ## range for number of modes
+2 6     ## range for value count for each variable
+3       ## type of table    
+300     ## maximum number of entries

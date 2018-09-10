@@ -1,0 +1,8 @@
+How to run the script:
+
+python minimize_table.py <input file name> <output file name>
+
+example:
+python minimize_table.py ../examples/test_0.txt out.txt
+
+
